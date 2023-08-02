@@ -11,7 +11,7 @@ go get -u gorm.io/gorm
 
 Use the following command to clone the repository to your local machine.
    ```
-   git clone https://github.com/your-username/golang-crud.git
+   git clone https://github.com/gopinathr143/golang-crud-gorm.git
    cd golang-crud
    ```
 
